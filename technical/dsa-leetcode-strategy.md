@@ -1,18 +1,13 @@
 ---
-title: DSA & LeetCode strategy
-author: Joey Zhang
-progsu_handle: na
-estimated_read_time: 12
-publish_date: 2026-02-24
-last_updated: 2026-05-28
-type: technical
-difficulty: intermediate
-impact: high
-tags:
-  - dsa
-  - leetcode
-  - technical-interview
-  - algorithms
+title: "DSA & LeetCode strategy"
+author:
+  name: "Progsu Team"
+  handle: "@progsu"
+readTime: "12 min read"
+publishDate: 2026-02-24T00:00:00.000Z
+updated: 2026-05-28T00:00:00.000Z
+tags: [dsa, leetcode, technical-interview, algorithms]
+category: technical
 ---
 
 # DSA & LeetCode strategy

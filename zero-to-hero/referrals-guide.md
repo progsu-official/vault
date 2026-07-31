@@ -1,18 +1,13 @@
 ---
-title: getting referrals that actually work
-author: Joey Zhang
-progsu_handle: na
-estimated_read_time: 5
-publish_date: 2024-01-15
-last_updated: 2026-05-28
-type: career
-difficulty: beginner
-impact: high
-tags:
-  - referrals
-  - networking
-  - job-search
-  - warm-applications
+title: "Getting referrals that actually work"
+author:
+  name: "Progsu Team"
+  handle: "@progsu"
+readTime: "5 min read"
+publishDate: 2024-01-15T00:00:00.000Z
+updated: 2026-05-28T00:00:00.000Z
+tags: [referrals, networking, job-search, warm-applications]
+category: zero-to-hero
 ---
 
 # getting referrals that actually work

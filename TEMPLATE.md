@@ -30,7 +30,7 @@ All guides live in category folders that mirror the wiki:
 
 ```
 vault/
-├── foundations/     CS theory, math, first principles
+├── zero-to-hero/    roadmaps, internship/job search, getting started
 ├── career/          recruiting, resumes, offers, job search
 ├── technical/       leetcode, system design, interview prep
 ├── networking/      cold outreach, LinkedIn, warm intros
@@ -69,7 +69,7 @@ category: career
 - **publishDate** (required): ISO 8601, set once and leave it
 - **updated** (required): ISO 8601, update this every time you revise the guide
 - **tags** (required): lowercase, hyphenated, 2-5 tags. these drive the knowledge graph
-- **category** (required): one of `foundations`, `career`, `technical`, `networking`, `misc`
+- **category** (required): one of `zero-to-hero`, `career`, `technical`, `networking`, `misc`
 
 ---
 

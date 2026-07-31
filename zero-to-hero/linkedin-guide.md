@@ -1,18 +1,13 @@
 ---
-title: perfecting your linkedin
-author: Brian Johnson
-progsu_handle: na
-estimated_read_time: 6
-publish_date: 2025-10-15
-last_updated: 2026-05-28
-type: career
-difficulty: beginner
-impact: high
-tags:
-  - linkedin
-  - networking
-  - personal-brand
-  - career
+title: "Perfecting your LinkedIn"
+author:
+  name: "Brian Johnson"
+  handle: "@progsu"
+readTime: "6 min read"
+publishDate: 2025-10-15T00:00:00.000Z
+updated: 2026-05-28T00:00:00.000Z
+tags: [linkedin, networking, personal-brand, career]
+category: zero-to-hero
 ---
 # perfecting your linkedin
 
