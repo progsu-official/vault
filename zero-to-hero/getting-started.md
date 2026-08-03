@@ -32,7 +32,7 @@ Everyone's timeline looks a little different, but here's roughly what each stage
 
 ### freshman year
 
-Exploration and foundations, not internships yet. Most freshmen don't land one, and that's normal.
+Foundations and exploration. Go for an internship too if you want, plenty of freshmen do, but most people land their first one sophomore year or later, and that's completely normal either way.
 
 ### sophomore year
 
