@@ -7,7 +7,7 @@ readTime: "5 min read"
 publishDate: 2024-01-15T00:00:00.000Z
 updated: 2026-05-28T00:00:00.000Z
 tags: [resume, career, internship, ats]
-category: zero-to-hero
+category: career
 ---
 
 # let's quickstart your resume

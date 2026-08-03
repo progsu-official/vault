@@ -7,7 +7,7 @@ readTime: "2 min read"
 publishDate: 2024-01-15T00:00:00.000Z
 updated: 2026-05-28T00:00:00.000Z
 tags: [interview, behavioral, star, career]
-category: zero-to-hero
+category: career
 ---
 # general guide and tips
 

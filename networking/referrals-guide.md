@@ -7,7 +7,7 @@ readTime: "5 min read"
 publishDate: 2024-01-15T00:00:00.000Z
 updated: 2026-05-28T00:00:00.000Z
 tags: [referrals, networking, job-search, warm-applications]
-category: zero-to-hero
+category: networking
 ---
 
 # getting referrals that actually work

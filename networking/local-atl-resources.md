@@ -7,7 +7,7 @@ readTime: "1 min read"
 publishDate: 2024-01-15T00:00:00.000Z
 updated: 2026-05-28T00:00:00.000Z
 tags: [atlanta, resources, local, networking]
-category: zero-to-hero
+category: networking
 ---
 
 a curated list of local atlanta companies worth targeting. companies marked with an asterisk (*) are ones where progsu executives have worked. greyed out companies do not have data for the selected season.
