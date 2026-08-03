@@ -32,23 +32,23 @@ Everyone's timeline looks a little different, but here's roughly what each stage
 
 ### freshman year
 
-Foundations and exploration. Go for an internship too if you want, plenty of freshmen do, but most people land their first one sophomore year or later, and that's completely normal either way.
+Foundations and exploration, not specialization. Learn your intro material for real, figure out what you actually like, and build something small of your own. Go for an internship too if you want, plenty of freshmen do, and the practice is worth it either way, but most people land their first one sophomore year or later, and that's completely normal.
 
 ### sophomore year
 
-Your first real internship, and picking a direction. The freshman/sophomore-specific programs matter most at this stage, see [[freshman-sophomore-programs]].
+If you don't already have an internship, this is the year to really go after your first one, the freshman/sophomore-specific programs matter most right now, see [[freshman-sophomore-programs]]. If you already landed one, keep stacking experiences, but pick them based on your actual goal: something like AI/ML or quant can sometimes value a complex, high-impact research project more than another generic internship, while general SWE goals usually favor another internship or a bigger open-source contribution. It depends on where you're headed.
 
 ### junior year
 
-The internship that matters most, usually your best shot at a name-brand offer since you're a rising senior applying to full-time-track roles next year.
+The internship that matters most. This is usually where people land their target-company internship and set up a return offer, using the foundation built over the last two years to actually aim at a company they want to convert into full-time, not just any offer.
 
 ### senior year
 
-Converting into a full-time offer, or your last full recruiting cycle before graduation if it didn't land junior year.
+If you secured a return offer junior year, this year is usually a breeze, no new-grad recruiting hanging over your head. If you didn't, or want more options, treat it as your last full recruiting cycle before graduation. Most people go full-time straight after senior year.
 
 ### post-grad
 
-The reps don't stop. Your first job is rarely your last, what matters now is staying on a track that keeps increasing your options over time.
+Not everyone goes straight to full-time, and that's fine if your goal actually calls for it. Something like AI/ML research, quant, or maximizing long-term comp can sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first offer. Whichever path you take, the reps don't stop, your first job (or program) is rarely your last, what matters is staying on a track that keeps increasing your options over time.
 
 **The general shape:** first internship (sophomore or junior year) → a bigger, often out-of-state internship (junior or senior year) → FAANG or FAANG-adjacent, if that's actually the goal. It isn't the right goal for everyone, more on that in [[picking-your-endgame]].
 

@@ -22,9 +22,12 @@ If you want to also aim for an internship this year, go for it. Plenty of freshm
 
 ## classes to prioritize
 
-- your intro programming sequence, don't just pass it, actually understand it
-- discrete math, it underlies almost everything in DSA and theory courses later
-- if your program offers an early data structures course, take it as soon as you're eligible, it's one of the most useful classes for interview prep down the line
+Roughly what a first year looks like for most CS majors, GSU course codes included so you can map it to your own schedule:
+
+- **intro to computer science I and II** (GSU: CSC 1301, CSC 1302), the sequence everything else builds on, don't just pass it, actually understand it
+- **calculus I and II** (GSU: MATH 2211, MATH 2212), or precalculus first (GSU: MATH 1113) if you're not placed into calculus yet
+
+Discrete math and data structures usually come next year, not this one, don't stress about them yet.
 
 ## how to step it up
 
