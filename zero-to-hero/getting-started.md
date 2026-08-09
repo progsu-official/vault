@@ -14,6 +14,20 @@ category: zero-to-hero
 
 This is the roadmap for going from "I have no idea what I'm doing" to landing a real offer. Read this first, the other guides in this section go deeper on specific pieces.
 
+## reverse engineer your roadmap
+
+Where do you actually want to be in five years?
+
+Not the version that sounds good at a career fair, the real one. A $250k+ offer at a company like Google or Meta? A solid mid-tier SWE role with real work-life balance? A research track into AI/ML or a PhD? Your own startup? Each of those is a legitimate endgame, and each one needs a different path to get there.
+
+That's the step most people skip. They start grinding LeetCode or blasting out applications without ever asking what those reps are actually pointed at. Work backward instead:
+
+- **FAANG or FAANG-adjacent comp** reverse engineers into: a target-company return offer junior year, which needs a mid-tier internship sophomore year for real interview reps, which needs LeetCode fundamentals and a shipped project by the end of freshman year.
+- **AI/ML, quant, or research** reverse engineers into: a technical or research-heavy internship junior year, which needs a serious research project or specialized internship sophomore year, sometimes weighted heavier than a generic internship would be.
+- **stability over prestige** reverse engineers into: consistent, steady reps every year rather than optimizing hard for one specific company name.
+
+Different destination, different path backward. Nail down your actual endgame first, [[picking-your-endgame]] goes deeper on that, then use the roadmap below to see what has to be true at each stage to get there.
+
 ## mindset: get locked in
 
 Breaking into tech doesn't require a specific pedigree, and it doesn't require aiming for FAANG specifically, plenty of people build a great career and never touch a top-5 company. It doesn't matter what walk of life you're coming from, dedication is what actually gets you there:
@@ -24,43 +38,29 @@ Breaking into tech doesn't require a specific pedigree, and it doesn't require a
 
 Getting "locked in" isn't a personality some people have and others don't. It's just choosing, on purpose, to put your reps into the thing you say you want instead of whatever's easiest that day. Less experience right now isn't a wall, it's just where your reps haven't landed yet.
 
-Use the roadmap below as a rough map, not a rulebook. If you're not a traditional freshman-to-senior student, map yourself onto the closest stage by skill level and time-to-graduation rather than literal year.
+Reverse engineering gives you the destination, mindset is what actually gets you moving toward it. Put the two together and the only thing left to figure out is where you're standing right now, so you know which leg of the path you're actually on.
 
 ## where are you in your roadmap?
 
-Everyone's timeline looks a little different, but here's roughly what each stage should look like if you're aiming to break into tech with a real internship track record behind you.
+Map yourself onto the closest stage by skill level and time-to-graduation, not literal year, if you're not on a traditional freshman-to-senior track. Each page below covers what that stage should look like, coursework included, and how to step it up:
 
-### freshman year
-
-Foundations and exploration, not specialization. Learn your intro material for real, figure out what you actually like, and build something small of your own. Go for an internship too if you want, plenty of freshmen do, and the practice is worth it either way, but most people land their first one sophomore year or later, and that's completely normal.
-
-### sophomore year
-
-If you don't already have an internship, this is the year to really go after your first one, the freshman/sophomore-specific programs matter most right now, see [[freshman-sophomore-programs]]. If you already landed one, keep stacking experiences, but pick them based on your actual goal: something like AI/ML or quant can sometimes value a complex, high-impact research project more than another generic internship, while general SWE goals usually favor another internship or a bigger open-source contribution. It depends on where you're headed.
-
-### junior year
-
-The internship that matters most. This is usually where people land their target-company internship and set up a return offer, using the foundation built over the last two years to actually aim at a company they want to convert into full-time, not just any offer.
-
-### senior year
-
-If you secured a return offer junior year, this year is usually a breeze, no new-grad recruiting hanging over your head. If you didn't, or want more options, treat it as your last full recruiting cycle before graduation. Most people go full-time straight after senior year.
-
-### post-grad
-
-Not everyone goes straight to full-time, and that's fine if your goal actually calls for it. Something like AI/ML research, quant, or maximizing long-term comp can sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first offer. Whichever path you take, the reps don't stop, your first job (or program) is rarely your last, what matters is staying on a track that keeps increasing your options over time.
+- [[freshman-year]]
+- [[sophomore-year]]
+- [[junior-year]]
+- [[senior-year]]
+- [[post-grad]]
 
 **The general shape:** first internship (sophomore or junior year) → a bigger, often out-of-state internship (junior or senior year) → FAANG or FAANG-adjacent, if that's actually the goal. It isn't the right goal for everyone, more on that in [[picking-your-endgame]].
 
-**For the actual coursework and how to step it up each year, see [[roadmap-by-year]].**
-
 ## case study: liam ellison
 
-Liam is Progsu's CTO and interned at a quant trading firm, coming out of a non-target school. A few things about how he got there that are worth pattern-matching to:
+Liam is Progsu's CTO and interned at a quant trading firm, coming out of a non-target school. He knew early that quant was the endgame, and everything below is what that looked like reverse engineered backward, not a random sequence of good decisions:
 
-- **sequenced his internships instead of just stacking them.** he targeted a mid-tier company first for real interview reps and leverage, then aimed at bigger names once he had that experience under him, rather than swinging for the biggest name available on his first try
-- **treated LeetCode as pattern recognition, not volume.** his rule: stop grinding for problem count, solve a problem, then re-solve it later until you can walk from brute force to an optimized solution live, without having memorized it
-- **leaned on warm networking over cold applying.** most of his best opportunities came from referrals and in-person contact at recruiting events, not from submitting applications into a portal and waiting
+- **sequenced his internships instead of just stacking them.** quant firms hire almost entirely on interview strength, so he worked backward from that: mid-tier company first, purely for real interview reps and leverage, then aimed at bigger names once he had that experience under him, rather than swinging for the biggest name available on his first try
+- **treated LeetCode as pattern recognition, not volume.** quant interviews test whether you can actually reason live, not whether you've memorized a solution, so he reverse engineered his prep to match: stop grinding for problem count, solve a problem, then re-solve it later until you can walk from brute force to an optimized solution live
+- **leaned on warm networking over cold applying.** quant roles are disproportionately referral- and relationship-driven, so once he knew that, cold applications stopped being where he spent his time, most of his best opportunities came from referrals and in-person contact at recruiting events instead
+
+None of it was luck. Every choice traces back to one question asked early: what does landing a quant offer actually require, and what has to be true a year before that to make it possible.
 
 *(Note for whoever writes the full version of this page: get an actual quote or short interview from Liam directly rather than relying on secondhand notes, this section should read as his own words.)*
 
