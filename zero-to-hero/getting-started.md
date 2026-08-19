@@ -62,7 +62,7 @@ Liam is Progsu's CTO and interned at a quant trading firm, coming out of a non-t
 
 None of it was luck. Every choice traces back to one question asked early: what does landing a quant offer actually require, and what has to be true a year before that to make it possible.
 
-*(Note for whoever writes the full version of this page: get an actual quote or short interview from Liam directly rather than relying on secondhand notes, this section should read as his own words.)*
+-- still waiting for liam's quote --
 
 ## where to go next
 
