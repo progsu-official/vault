@@ -1,7 +1,7 @@
 ---
 title: "Post-grad"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "3 min read"
 publishDate: 2026-08-02T14:20:00.000Z

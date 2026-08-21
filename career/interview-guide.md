@@ -1,7 +1,7 @@
 ---
 title: "Winning the interview"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "2 min read"
 publishDate: 2024-01-15T00:00:00.000Z

@@ -1,7 +1,7 @@
 ---
 title: "Building experience early"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "5 min read"
 publishDate: 2026-08-02T00:00:00.000Z

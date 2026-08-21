@@ -1,7 +1,7 @@
 ---
 title: "Roadmap by year"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "3 min read"
 publishDate: 2026-08-02T13:00:00.000Z

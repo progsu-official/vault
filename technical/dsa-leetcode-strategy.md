@@ -1,7 +1,7 @@
 ---
 title: "DSA & LeetCode strategy"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "12 min read"
 publishDate: 2026-02-24T00:00:00.000Z

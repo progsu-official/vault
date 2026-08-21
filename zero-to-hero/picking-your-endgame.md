@@ -1,7 +1,7 @@
 ---
 title: "Picking your endgame: industry, role, lifestyle"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "7 min read"
 publishDate: 2026-08-02T00:00:00.000Z
