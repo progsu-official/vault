@@ -1,7 +1,7 @@
 ---
 title: "Getting started"
 author:
-  name: "Progsu Team"
+  name: "progsu team"
   handle: "@progsu"
 readTime: "6 min read"
 publishDate: 2026-08-02T12:00:00.000Z
@@ -12,37 +12,37 @@ category: zero-to-hero
 
 # start here
 
-This is the roadmap for going from "I have no idea what I'm doing" to landing a real offer. Read this first, the other guides in this section go deeper on specific pieces.
+This is the roadmap for going from "I have no idea what I'm doing" to a real offer in hand. Read this one first, then the other guides in this section go deeper on the individual pieces.
 
 ## reverse engineer your roadmap
 
 Where do you actually want to be in five years?
 
-Not the version that sounds good at a career fair, the real one. A $250k+ offer at a company like Google or Meta? A solid mid-tier SWE role with real work-life balance? A research track into AI/ML or a PhD? Your own startup? Each of those is a legitimate endgame, and each one needs a different path to get there.
+We mean the real answer, so the one you'd give a friend and not the polished one you'd give a recruiter at a career fair. A $250k+ offer at a company like Google or Meta? A solid mid-tier SWE role with real work-life balance? A research track into AI/ML or a PhD? Your own startup? Every one of those is a legitimate endgame, and every one needs a different path to get there.
 
-That's the step most people skip. They start grinding LeetCode or blasting out applications without ever asking what those reps are actually pointed at. Work backward instead:
+That's the step most people skip. They start grinding LeetCode or blasting out applications without ever asking what all those reps are pointed at. Work backward instead:
 
-- **FAANG or FAANG-adjacent comp** reverse engineers into: a target-company return offer junior year, which needs a mid-tier internship sophomore year for real interview reps, which needs LeetCode fundamentals and a shipped project by the end of freshman year.
-- **AI/ML, quant, or research** reverse engineers into: a technical or research-heavy internship junior year, which needs a serious research project or specialized internship sophomore year, sometimes weighted heavier than a generic internship would be.
-- **stability over prestige** reverse engineers into: consistent, steady reps every year rather than optimizing hard for one specific company name.
+- **FAANG or FAANG-adjacent comp** reverse engineers into a target-company return offer junior year. That needs a mid-tier internship sophomore year for real interview reps, which needs LeetCode fundamentals + a shipped project by the end of freshman year.
+- **AI/ML, quant, or research** reverse engineers into a technical or research-heavy internship junior year. That needs a serious research project or a specialized internship sophomore year, which sometimes counts for more than a generic internship would.
+- **stability over prestige** reverse engineers into consistent, steady reps every year, so you're never optimizing hard for one specific company name.
 
-Different destination, different path backward. Nail down your actual endgame first, [[picking-your-endgame]] goes deeper on that, then use the roadmap below to see what has to be true at each stage to get there.
+Different destination, different path backward. So nail down your actual endgame first, and [[picking-your-endgame]] goes deep on that part. Then use the roadmap below to work out what has to be true at each stage to get you there.
 
-## mindset: get locked in
+## mindset, get locked in
 
-Breaking into tech doesn't require a specific pedigree, and it doesn't require aiming for FAANG specifically, plenty of people build a great career and never touch a top-5 company. It doesn't matter what walk of life you're coming from, dedication is what actually gets you there:
+Breaking into tech doesn't require a specific pedigree, and it doesn't require aiming at FAANG. Plenty of people build a great career and never touch a top-5 company. It doesn't matter what walk of life you're coming from either, dedication is the thing that actually gets you there:
 
-- **reps.** projects, LeetCode, applications, cold messages. none of them look like much on their own. the compounding shows up after volume, not after one good day
-- **activation energy.** starting is always the hardest part, not continuing. the first project, the first cold message, the first application all cost more than the hundredth one does
-- **initiative.** nobody hands you a roadmap. the programs, the workshops, the people worth reaching out to all exist, but you have to go find them yourself
+- **reps.** Projects, LeetCode, applications, cold messages. None of them look like much on their own. The compounding shows up after volume, so one good day won't show you much of anything yet.
+- **activation energy.** Starting is always the hardest part, and continuing is the easy part. The first project, the first cold message, the first application all cost way more than the hundredth one does.
+- **initiative.** Nobody hands you a roadmap. The programs, the workshops, the people worth reaching out to all exist, but you have to go find them yourself (this is the one we watch people wait on the longest).
 
 Getting "locked in" isn't a personality some people have and others don't. It's just choosing, on purpose, to put your reps into the thing you say you want instead of whatever's easiest that day. Less experience right now isn't a wall, it's just where your reps haven't landed yet.
 
-Reverse engineering gives you the destination, mindset is what actually gets you moving toward it. Put the two together and the only thing left to figure out is where you're standing right now, so you know which leg of the path you're actually on.
+Reverse engineering gives you the destination and mindset is what actually gets you moving toward it. Put the two together and the only thing left is figuring out where you're standing right now, so you know which leg of the path you're on.
 
-## where are you in your roadmap?
+## where you are on the roadmap
 
-Map yourself onto the closest stage by skill level and time-to-graduation, not literal year, if you're not on a traditional freshman-to-senior track. Each page below covers what that stage should look like, coursework included, and how to step it up:
+Map yourself onto the closest stage by skill level and time-to-graduation. If you're not on a traditional freshman-to-senior track, go by that instead of your literal year. Each page below covers what the stage should look like, coursework included, and how to step it up:
 
 - [[freshman-year]]
 - [[sophomore-year]]
@@ -50,19 +50,19 @@ Map yourself onto the closest stage by skill level and time-to-graduation, not l
 - [[senior-year]]
 - [[post-grad]]
 
-**The general shape:** first internship (sophomore or junior year) → a bigger, often out-of-state internship (junior or senior year) → FAANG or FAANG-adjacent, if that's actually the goal. It isn't the right goal for everyone, more on that in [[picking-your-endgame]].
+**The general shape:** first internship (sophomore or junior year) → a bigger, often out-of-state internship (junior or senior year) → FAANG or FAANG-adjacent, if that's actually what you want. It isn't the right goal for everyone though.
 
-## case study: liam ellison
+## case study, liam ellison
 
-Liam is Progsu's CTO and interned at a quant trading firm, coming out of a non-target school. He knew early that quant was the endgame, and everything below is what that looked like reverse engineered backward, not a random sequence of good decisions:
+Liam is progsu's CTO, he interned at a quant trading firm, and he did it coming out of a non-target school. He knew early that quant was the endgame, so pretty much every move after that traces back to one question instead of a lucky sequence of good decisions.
 
-- **sequenced his internships instead of just stacking them.** quant firms hire almost entirely on interview strength, so he worked backward from that: mid-tier company first, purely for real interview reps and leverage, then aimed at bigger names once he had that experience under him, rather than swinging for the biggest name available on his first try
-- **treated LeetCode as pattern recognition, not volume.** quant interviews test whether you can actually reason live, not whether you've memorized a solution, so he reverse engineered his prep to match: stop grinding for problem count, solve a problem, then re-solve it later until you can walk from brute force to an optimized solution live
-- **leaned on warm networking over cold applying.** quant roles are disproportionately referral- and relationship-driven, so once he knew that, cold applications stopped being where he spent his time, most of his best opportunities came from referrals and in-person contact at recruiting events instead
+First, he sequenced his internships instead of just stacking them. Quant firms hire almost entirely on interview strength, so he worked backward from that. Mid-tier company first, purely for real interview reps + leverage, then he aimed at the bigger names once he had that experience under him. No swinging for the biggest name available on his first try.
 
-None of it was luck. Every choice traces back to one question asked early: what does landing a quant offer actually require, and what has to be true a year before that to make it possible.
+Then there's LeetCode, which he treated as pattern recognition rather than volume. Quant interviews test whether you can actually reason live, and having a solution memorized doesn't help you there, so he built his prep to match. Stop grinding for problem count. Solve a problem, then re-solve it later, and keep re-solving until you can walk from brute force to an optimized solution live.
 
--- still waiting for liam's quote --
+The last one is networking, where he leaned warm instead of cold. Quant roles are disproportionately referral- and relationship-driven, and once he knew that, cold applications stopped being where he spent his time. Most of his best opportunities came from referrals + in-person contact at recruiting events instead.
+
+None of it was luck. Every choice traces back to one question he asked early: what does landing a quant offer actually require, and what has to be true a year before that to make it possible.
 
 ## where to go next
 
@@ -72,6 +72,6 @@ None of it was luck. Every choice traces back to one question asked early: what 
 
 ## turn this into action
 
-Before you close this tab: open a doc and write down two things. Where you actually are on the roadmap above, honestly, not where you wish you were. And one thing you can do this week that moves you forward, one application, one cold message, one LeetCode session.
+Before you close this tab, open a doc and write down two things. First, where you actually are on the roadmap above, and be honest about it, since the wishful version won't help you plan anything. Second, one thing you can do this week that moves you forward, so for example one application, one cold message, one LeetCode session.
 
-If you want a coach for this, take this page's roadmap, tell an AI assistant your year, major, and current situation, and ask it to help you scope a realistic quarter-by-quarter plan. Then hold yourself to it the same way you'd hold yourself to a workout plan, the roadmap only works if you actually follow it.
+If you want a coach for this, take the roadmap on this page and hand it to an AI assistant along with your year, major, and current situation. Then ask it to help you scope a realistic quarter-by-quarter plan. After that it's on you to hold yourself to it the same way you'd hold yourself to a workout plan, since the roadmap ONLY works if you actually follow it.
