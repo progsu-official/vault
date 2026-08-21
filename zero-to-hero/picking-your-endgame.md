@@ -5,7 +5,7 @@ author:
   handle: "@progsu"
 readTime: "7 min read"
 publishDate: 2026-08-02T00:00:00.000Z
-updated: 2026-08-19T00:00:00.000Z
+updated: 2026-08-20T00:00:00.000Z
 tags: [career, roadmap, compensation, role-selection]
 category: zero-to-hero
 ---
@@ -111,7 +111,7 @@ Comp and day-to-day are the reward side. This is the bill.
 - [[getting-started]], for the overall roadmap and how to reverse engineer backward from whatever you picked here
 - [[roadmap-by-year]], to see what your chosen track should look like at your current stage
 - [[landing-your-first-internship]], for the search playbook once you have a direction
-- [[freshman-sophomore-programs]], if you're early enough that beginner-specific pipelines are still open
+- [[building-experience-early]], if you're early and need experience before any of this applies
 
 ## turn this into action
 

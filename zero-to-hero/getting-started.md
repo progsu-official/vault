@@ -5,7 +5,7 @@ author:
   handle: "@progsu"
 readTime: "6 min read"
 publishDate: 2026-08-02T12:00:00.000Z
-updated: 2026-08-02T12:00:00.000Z
+updated: 2026-08-20T00:00:00.000Z
 tags: [roadmap, mindset, career, getting-started]
 category: zero-to-hero
 ---
@@ -67,7 +67,7 @@ None of it was luck. Every choice traces back to one question asked early: what 
 ## where to go next
 
 - [[picking-your-endgame]], for figuring out what role and company type you're actually chasing
-- [[freshman-sophomore-programs]], if you're early enough that the beginner-specific pipelines are still open to you
+- [[building-experience-early]], if your resume is still empty and you need something real to put on it
 - [[landing-your-first-internship]], once you know roughly what you're aiming for and need the actual search playbook
 
 ## turn this into action

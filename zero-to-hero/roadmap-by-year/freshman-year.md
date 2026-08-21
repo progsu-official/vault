@@ -5,7 +5,7 @@ author:
   handle: "@progsu"
 readTime: "4 min read"
 publishDate: 2026-08-02T14:00:00.000Z
-updated: 2026-08-03T00:00:00.000Z
+updated: 2026-08-20T00:00:00.000Z
 tags: [roadmap, coursework, freshman, foundations]
 category: zero-to-hero
 ---
@@ -18,7 +18,7 @@ Foundations and exploration. This is the year to actually learn the material and
 
 Go deep on your fundamentals instead of rushing to specialize. You don't need to know yet whether you want to do web dev, ML, security, or something else, most people figure that out over the next year or two, not in their first semester. Go to office hours, form a study group, actually understand your intro classes instead of just passing them, that foundation is what everything else gets built on.
 
-If you want to also aim for an internship this year, go for it. Plenty of freshmen apply, and going through the process (even a career fair pitch that goes nowhere, or an application that gets rejected) is real practice for next time. But if you don't land one, that's normal, not a sign you're behind. Most people land their first internship sophomore year or later. If it doesn't happen this year, you've still got real options: research with a professor, a structured program built for exactly this stage (see [[freshman-sophomore-programs]]), a co-op, a hackathon project, or just shipping something on your own. Any of those builds real, usable experience.
+If you want to also aim for an internship this year, go for it. Plenty of freshmen apply, and going through the process (even a career fair pitch that goes nowhere, or an application that gets rejected) is real practice for next time. But if you don't land one, that's normal, not a sign you're behind. Most people land their first internship sophomore year or later. If it doesn't happen this year, you've still got real options: research with a professor, one of the few structured programs still built for this stage, a co-op, a hackathon project, or just shipping something on your own. [[building-experience-early]] walks through each one. Any of those builds real, usable experience.
 
 ## classes to prioritize
 
@@ -36,5 +36,5 @@ Build something outside of class and put it on GitHub, even something small. It 
 ## where to go next
 
 - [[sophomore-year]], once you've got your footing
-- [[freshman-sophomore-programs]], for structured early programs and co-ops
+- [[building-experience-early]], for research, early programs, and what counts before your first internship
 - [[getting-started]], for the overall roadmap and mindset
