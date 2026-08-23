@@ -1,8 +1,8 @@
 ---
 title: "Picking your endgame"
 author:
-  name: "progsu team"
-  handle: "@progsu"
+  name: "Joey Zhang"
+  handle: "na"
 readTime: "9 min read"
 publishDate: 2026-08-02T00:00:00.000Z
 updated: 2026-08-22T00:00:00.000Z
@@ -14,7 +14,7 @@ category: zero-to-hero
 
 [[getting-started]] told you to reverse engineer your roadmap from the destination. This is where you pick the destination.
 
-Five tracks get covered here = software engineering, AI/ML, quant, data, and cybersecurity. For each one we go through what the market pays, what the work feels like on a random Tuesday, and what it costs to get in. Every one of these is reversible, so pick a direction now and correct in a year. That beats staying undecided for three, because an undecided roadmap produces undecided reps.
+Five tracks get covered here = software engineering, AI/ML, quant dev, data, and cybersecurity. For each one we go through what the market pays, what the day-to-day actually looks like, and what it costs to get in. None of these picks are permanent, so don't stay stagnant. As long as you keep moving and stay in motion, you can still change and correct course. That beats staying undecided for three years, because an undecided roadmap produces undecided reps.
 
 ## the roadmap
 
@@ -24,7 +24,7 @@ Start with the technical map for the track you're eyeing. [roadmap.sh](https://r
 - **AI/ML**: [ai engineer](https://roadmap.sh/ai-engineer) for the applied side, [ai and data scientist](https://roadmap.sh/ai-data-scientist) for research
 - **data**: [data analyst](https://roadmap.sh/data-analyst). Add [backend](https://roadmap.sh/backend) if you're moving toward data engineering
 - **cybersecurity**: [cybersecurity](https://roadmap.sh/cyber-security)
-- **quant**: no dedicated roadmap. It's the CS core plus probability, statistics, and linear algebra, with C++ or Python depth on top
+- **quant dev**: no dedicated roadmap. It's the CS core plus probability, statistics, and linear algebra, with C++ or Python depth on top
 
 Skim the [computer science](https://roadmap.sh/computer-science) roadmap too. It's the shared base under all five.
 
@@ -47,7 +47,7 @@ Entry-level total compensation in the US, mid 2026. Total comp means base plus b
 |---|---|---|---|
 | software engineering | $85k | $115k | $175k |
 | AI/ML | $110k | $150k | $220k |
-| quant | $175k | $250k | $350k+ |
+| quant dev | $175k | $250k | $350k+ |
 | data | $70k | $95k | $130k |
 | cybersecurity | $65k | $85k | $115k |
 
@@ -57,19 +57,19 @@ The spread inside a track matters more than the gap between tracks. A big tech S
 |---|---|---|---|
 | software engineering | $250k to $500k+ | largest, most contested | strong |
 | AI/ML | $300k to $800k+ | growing fast, thin at entry | thin at entry |
-| quant | $500k to $1m+ | a few hundred a year, nationally | basically none |
+| quant dev | $500k to $1m+ | a few hundred a year, nationally | basically none |
 | data | $180k to $300k | large, widest entry door | strong |
 | cybersecurity | $180k to $280k | growing, blue team is the entry door | strong |
 
-A few things to read off those tables. Quant pays the most and is the hardest seat to get, so treating it as a fallback is a mistake. AI/ML pays well but hires thin at entry, since most openings want a master's or real research output. That makes it a better second job than first job. Data and blue team cybersecurity have the lowest ceilings and the widest doors, which makes them the most reliable way in when SWE applications stall.
+> [!warning]
+> These numbers are a snapshot. Check [levels.fyi](https://levels.fyi) before deciding anything on them. Treat any figure older than a year as directional.
+
+A few things to read off those tables. Quant dev pays the most and is the hardest seat to get, so treating it as a fallback is a mistake. AI/ML pays well but hires thin at entry, since most openings want a master's or real research output. That makes it a better second job than first job. Data and blue team cybersecurity have the lowest ceilings and the widest doors, which makes them the most reliable way in when SWE applications stall.
 
 Job security tracks with how boring the work sounds. Security operations, internal tooling, data pipelines, payments infrastructure. All unglamorous, and all extremely hard to cut, because something breaks the moment they stop. The roles closest to a company's discretionary spending are the ones that get cut first.
 
 > [!note] note on Atlanta
-> The local market is real but uneven. Software engineering and data hire steadily across logistics, healthcare, and the big local employers. Atlanta is also a genuine payments and fintech hub, which makes it one of the strongest blue team markets in the country. Quant is the exception, since those desks live in New York and Chicago. That endgame means relocating. See [[local-atl-resources]] for the local scene.
-
-> [!warning]
-> These numbers are a snapshot. Check [levels.fyi](https://levels.fyi) before deciding anything on them. Treat any figure older than a year as directional.
+> The local market is real but uneven. Software engineering and data hire steadily across logistics, healthcare, and the big local employers. Atlanta is also a genuine payments and fintech hub, which makes it one of the strongest blue team markets in the country. Quant dev is the exception, since those desks live in New York and Chicago. That endgame means relocating. See [[local-atl-resources]] for the local scene.
 
 ### micro, the day-to-day view
 
@@ -77,14 +77,14 @@ Comp gets you in the door. This is the work once you're through it.
 
 - **software engineering.** Most of the day goes into reading existing code, and writing new code is the smaller half. You pick up a ticket, trace how the system handles it now, make a change, then defend it in review. Good fit if you like building and can sit with ambiguity before anything works. Core skills = one language deeply, data structures and algorithms, git, and enough systems knowledge to reason about what's slow.
 - **AI/ML.** Two very different jobs share the label. AI engineering is software engineering pointed at models = pipelines, evals, serving, integration. Research is closer to grad school, so reading papers and running experiments that mostly fail. Good fit if you like math and can be wrong most of the week. Core skills = Python, linear algebra, probability, and experiment discipline.
-- **quant.** You either trade live markets, research signals, or build the low-latency systems underneath both. Feedback loops are short and everything gets measured against a number. Good fit if you like competition and think clearly under live pressure. Core skills = probability, statistics, mental math, and C++ or Python depth. The interview bar is the real filter, see [[dsa-leetcode-strategy]].
+- **quant dev.** You either trade live markets, research signals, or build the low-latency systems underneath both. Feedback loops are short and everything gets measured against a number. Good fit if you like competition and think clearly under live pressure. Core skills = probability, statistics, mental math, and C++ or Python depth. The interview bar is the real filter, see [[dsa-leetcode-strategy]].
 - **data.** You turn messy real-world data into something a decision can rest on = SQL, pipelines, dashboards. Half the job is conversations with people who aren't technical. Good fit if you like answering questions with evidence. Core skills = SQL fluency first, then Python, then warehousing and orchestration tools.
 - **cybersecurity, blue team.** Defensive security. You watch alerts, investigate whether something is a real intrusion or just noise, harden systems, then write the detection that catches it next time. Investigative work with heavy on-call. Good fit if you're curious, patient, and calm while something is actively going wrong. Core skills = networking, operating systems, log analysis, and scripting. Certifications carry real weight here, unlike in the other four.
 
 Once you're in, comp grows three ways, and each track favors a different one.
 
 - **job hopping.** The fastest lever early. A move every two to three years beats an internal raise. It works best in software engineering and data, where the market is deep.
-- **climbing the ladder.** Slower, and the curve steepens later. Senior to staff is where those ceiling numbers come from. Quant compresses the timeline hard, so first-year bonuses can rival a senior SWE salary.
+- **climbing the ladder.** Slower, and the curve steepens later. Senior to staff is where those ceiling numbers come from. Quant dev compresses the timeline hard, so first-year bonuses can rival a senior SWE salary.
 - **starting a company.** Highest variance by a wide margin. Treat it as a post-experience move. The tracks that prepare you best are the ones where you shipped user-facing product.
 
 ## what this actually takes
@@ -95,17 +95,17 @@ Comp and day-to-day are the reward side. This is what it costs.
 |---|---|---|---|
 | software engineering | BS is enough | 40 to 50 | builders, tolerant of ambiguity |
 | AI/ML | MS or PhD for research | 45 to 55 | mathematically curious |
-| quant | BS, but a brutal interview bar | 50 to 60+ | competitive, calm under pressure |
+| quant dev | BS, but a brutal interview bar | 50 to 60+ | competitive, calm under pressure |
 | data | BS plus SQL and a portfolio | 40 to 45 | evidence-driven communicators |
 | cybersecurity | BS plus certifications | 40 to 50, plus on-call | patient investigators |
 
 **Short-term effort** is the same everywhere = a finished project, real interview preparation, and a resume that survives a follow-up question. That baseline holds across all five tracks, so start it before you've decided. [[landing-your-first-internship]] covers the sequence.
 
-**Long-term effort** is where the tracks separate. Software engineering and data stay sustainable, since the skills compound and the pace is human. AI/ML research asks for years of formal education before the interesting work starts. Quant demands the heaviest sustained intensity, and the comp exists partly because most people quit that pace inside ten years. Cybersecurity asks for continuous recertification and a tolerance for your phone going off at 3am.
+**Long-term effort** is where the tracks separate. Software engineering and data stay sustainable, since the skills compound and the pace is human. AI/ML research asks for years of formal education before the interesting work starts. Quant dev demands the heaviest sustained intensity, and the comp exists partly because most people quit that pace inside ten years. Cybersecurity asks for continuous recertification and a tolerance for your phone going off at 3am.
 
 **Credentials** genuinely gate two of these. AI/ML research effectively requires a graduate degree. Cybersecurity hiring leans on certifications harder than any other track, and that's exactly what makes blue team a viable entry path, since a certification is a few months of study instead of a few years of school. Everywhere else, a bachelor's plus proof you can build is the whole requirement.
 
-**Work-life balance** is a company property more than a track property, and quant is the honest exception. A startup SWE role can be harder than a quant seat. A mature enterprise data role can be easier than either. So ask about hours during interviews, and weight what current employees say over what the recruiter says.
+**Work-life balance** is a company property more than a track property, and quant dev is the honest exception. A startup SWE role can be harder than a quant dev seat. A mature enterprise data role can be easier than either. So ask about hours during interviews, and weight what current employees say over what the recruiter says.
 
 **Personality fit** is the one nobody audits honestly, and it also decides whether you're still here in five years. If reading someone else's code all day sounds miserable, software engineering stays exactly that. If ambiguity stresses you out, research stays ambiguous forever. Pick the day-to-day you can stand on a bad week, because the one that sounds best out loud is a different question entirely.
 

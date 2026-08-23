@@ -1,8 +1,8 @@
 ---
 title: "DSA & LeetCode strategy"
 author:
-  name: "progsu team"
-  handle: "@progsu"
+  name: "Joey Zhang"
+  handle: "na"
 readTime: "12 min read"
 publishDate: 2026-02-24T00:00:00.000Z
 updated: 2026-05-28T00:00:00.000Z
