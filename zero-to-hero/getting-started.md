@@ -18,7 +18,7 @@ This is the roadmap for going from "I have no idea what I'm doing" to a real off
 
 Where do you actually want to be in five years?
 
-We mean the real answer, so the one you'd give a friend and not the polished one you'd give a recruiter at a career fair. A $250k+ offer at a company like Google or Meta? A solid mid-tier SWE role with real work-life balance? A research track into AI/ML or a PhD? Your own startup? Every one of those is a legitimate endgame, and every one needs a different path to get there.
+We mean the real answer, so the one you'd give a friend and not the polished one you'd give a recruiter at a career fair. A $250k+ offer at a company like Google or Meta? A solid mid-tier SWE role with real work-life balance? A research track into AI/ML or a PhD? Your own startup? An amazing security analyst working for cyber threat intelligence firms? Every one of those is a legitimate end goal, and every one needs a different path to get there.
 
 That's the step most people skip. They start grinding LeetCode or blasting out applications without ever asking what all those reps are pointed at. Work backward instead:
 
