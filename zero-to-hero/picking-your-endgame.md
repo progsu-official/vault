@@ -1,8 +1,8 @@
 ---
 title: "Picking your endgame"
 author:
-  name: "Joey Zhang"
-  handle: "na"
+  name: "progsu team"
+  handle: "@progsu"
 readTime: "9 min read"
 publishDate: 2026-08-02T00:00:00.000Z
 updated: 2026-08-22T00:00:00.000Z
