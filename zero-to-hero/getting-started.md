@@ -5,7 +5,7 @@ author:
   handle: "@progsu"
 readTime: "6 min read"
 publishDate: 2026-08-02T12:00:00.000Z
-updated: 2026-08-20T00:00:00.000Z
+updated: 2026-08-22T00:00:00.000Z
 tags: [roadmap, mindset, career, getting-started]
 category: zero-to-hero
 ---
@@ -48,7 +48,6 @@ Map yourself onto the closest stage by skill level and time-to-graduation. If yo
 - [[sophomore-year]]
 - [[junior-year]]
 - [[senior-year]]
-- [[post-grad]]
 
 **The general shape:** first internship (sophomore or junior year) → a bigger, often out-of-state internship (junior or senior year) → FAANG or FAANG-adjacent, if that's actually what you want. It isn't the right goal for everyone though.
 

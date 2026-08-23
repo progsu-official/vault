@@ -20,7 +20,9 @@ If you secured a return offer from your junior-year internship, senior year is u
 
 If you didn't get a return offer, or you want more options than the one company gave you, this is your last full recruiting cycle before graduation, so treat it seriously. Stack multiple applications, lean on referrals over cold applying, and don't be afraid to use an off-cycle (spring) role to buy yourself another cycle of reps if this one doesn't land the way you want.
 
-Most people go full-time straight after senior year, and that's the default path for good reason. The exception is when your actual endgame needs something a bachelor's alone doesn't give you. Some AI/ML research roles, quant, or maximizing comp as a dev longer-term sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first full-time offer that shows up. If that's you, see [[post-grad]].
+Most people go full-time straight after senior year, and that's the default path for good reason. The exception is when your actual endgame needs something a bachelor's alone doesn't give you. Some AI/ML research roles, quant, or maximizing comp as a dev longer-term sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first full-time offer that shows up. That's a case-by-case call against your own endgame, so see [[picking-your-endgame]] if you haven't mapped that out yet. If your goal doesn't need it, don't manufacture a reason to delay working, since the reps you get on the job are usually worth more than more classroom time.
+
+Either way, the offer you take isn't the finish line. Your first job is rarely your last, and what matters from here is whether you're on a track that keeps increasing your options over time (comp, title, company brand).
 
 ## classes to prioritize
 
@@ -37,6 +39,6 @@ Volume + warmth, in that order. Get multiple applications out rather than perfec
 
 ## where to go next
 
-- [[post-grad]], for what comes after, especially if your goal needs more than a straight full-time offer
+- [[picking-your-endgame]], to sharpen the call on whether your goal needs more than a straight full-time offer
 - [[landing-your-first-internship]], for the search playbook if you're still in it
 - [[getting-started]], for the overall roadmap and mindset
