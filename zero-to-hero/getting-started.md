@@ -16,19 +16,17 @@ this is the roadmap for going from "I have no idea what I'm doing" to a real off
 
 ## how to use this section
 
-every page in zero-to-hero, and the order to read them in. each box is a link, so you can jump in from wherever you actually are.
+every page in zero-to-hero, and the order to read them in. the underlined boxes link straight to that guide, so you can jump in from wherever you actually are.
 
 ```mermaid
 flowchart LR
-    S(["you are here — start here"]) --> Q1{"know your<br/>endgame?"}
-    Q1 -->|not yet| E["picking your endgame"]
-    Q1 -->|yes| Y["roadmap by year<br/>find your stage"]
+    Q1{"endgame<br/>picked?"} -->|not yet| E["picking your<br/>endgame"]
+    Q1 -->|yes| Y["roadmap<br/>by year"]
     E --> Y
-    Y --> R{"anything real<br/>on your resume?"}
-    R -->|not yet| B["building experience early"]
-    R -->|yes| L["landing your first internship"]
+    Y --> R{"resume have<br/>anything?"}
+    R -->|not yet| B["building<br/>experience"]
+    R -->|yes| L["landing your<br/>internship"]
     B --> L
-    L --> O(["first internship → bigger one → your endgame"])
 
     click E href "/guides/zero-to-hero/picking-your-endgame"
     click Y href "/guides/zero-to-hero/roadmap-by-year"
