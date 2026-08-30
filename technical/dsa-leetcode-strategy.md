@@ -65,7 +65,7 @@ these are your building blocks. master these before moving on; nearly every hard
 - for frequency problems, use a counter/dictionary
 - for "find pair" problems, store complements in a set
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Two Sum | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA) |
 | 2 | Contains Duplicate | [Video](https://www.youtube.com/watch?v=3OamzN90kPg) |
@@ -89,7 +89,7 @@ these are your building blocks. master these before moving on; nearly every hard
 - left pointer starts at beginning, right at end
 - move the pointer that gets you closer to your target
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Valid Palindrome | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg) |
 | 2 | Two Sum II - Input Array Is Sorted | [Video](https://www.youtube.com/watch?v=cQ1Oz4ckceM) |
@@ -112,7 +112,7 @@ these are your building blocks. master these before moving on; nearly every hard
 - "next greater element" = monotonic stack
 - evaluate expressions = stack with operators
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Valid Parentheses | [Video](https://www.youtube.com/watch?v=WTzjTskDFMg) |
 | 2 | Min Stack | [Video](https://www.youtube.com/watch?v=qkLl7nAwDPo) |
@@ -134,7 +134,7 @@ these are your building blocks. master these before moving on; nearly every hard
 - "minimum/maximum that satisfies condition" = binary search on answer
 - always check: can I binary search the search space?
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Search a 2D Matrix | [Video](https://www.youtube.com/watch?v=Ber2pi2C0j0) |
 | 2 | Search in Rotated Sorted Array | [Video](https://www.youtube.com/watch?v=U8XENwh8Oy8) |
@@ -155,7 +155,7 @@ these are your building blocks. master these before moving on; nearly every hard
 - use a hash map to track window contents
 - expand right pointer, shrink left when window is invalid
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Longest Substring Without Repeating Characters | [Video](https://www.youtube.com/watch?v=wiGpQwVHdE0) |
 | 2 | Minimum Window Substring | [Video](https://www.youtube.com/watch?v=jSto0O4AJbM) |
@@ -178,7 +178,7 @@ linked & hierarchical structures. these build on your foundation patterns and in
 - **fast and slow pointers** detect cycles and find midpoints
 - reverse a linked list is a building block for many harder problems
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Reverse Linked List | [Video](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
 | 2 | Linked List Cycle | [Video](https://www.youtube.com/watch?v=gBTe7lFR3vc) |
@@ -197,7 +197,7 @@ linked & hierarchical structures. these build on your foundation patterns and in
 - for level-by-level processing, use BFS with a queue
 - BST property: left < root < right; use this for validation and search
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Invert Binary Tree | [Video](https://www.youtube.com/watch?v=OnSn2XEQ4MY) |
 | 2 | Same Tree | [Video](https://www.youtube.com/watch?v=vRbbcKXCxOw) |
@@ -218,7 +218,7 @@ linked & hierarchical structures. these build on your foundation patterns and in
 - each node has up to 26 children (for lowercase English)
 - mark end-of-word nodes to distinguish complete words from prefixes
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Implement Trie (Prefix Tree) | [Video](https://www.youtube.com/watch?v=AXjmTQ8LEoI) |
 | 2 | Design Add and Search Words Data Structure | [Video](https://www.youtube.com/watch?v=BTf05gs_8iU) |
@@ -240,7 +240,7 @@ recursion & optimization. these patterns are harder but show up frequently in in
 - at each step: make a choice, recurse, undo the choice
 - prune early: skip branches that violate constraints
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Subsets | [Video](https://www.youtube.com/watch?v=REOH22Xwdkk) |
 | 2 | Combination Sum | [Video](https://www.youtube.com/watch?v=GBKI9VSKdGg) |
@@ -259,7 +259,7 @@ recursion & optimization. these patterns are harder but show up frequently in in
 - use a **min heap** of size K to find the Kth largest
 - use a **max heap** when you need the largest element quickly
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Kth Largest Element in a Stream | [Video](https://www.youtube.com/watch?v=hOjcdrqMoQ8) |
 | 2 | Last Stone Weight | [Video](https://www.youtube.com/watch?v=iygakK8nK9Y) |
@@ -279,7 +279,7 @@ recursion & optimization. these patterns are harder but show up frequently in in
 - "can I complete all tasks?" = topological sort (cycle detection)
 - always track visited nodes to avoid infinite loops
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Number of Islands | [Video](https://www.youtube.com/watch?v=pV2kpPD66nE) |
 | 2 | Course Schedule | [Video](https://www.youtube.com/watch?v=EgI5nU9etnU) |
@@ -299,7 +299,7 @@ recursion & optimization. these patterns are harder but show up frequently in in
 - define your state clearly: `dp[i]` = what does index i represent?
 - find the **recurrence relation**: how does `dp[i]` relate to previous values?
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Climbing Stairs | [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI) |
 | 2 | Coin Change | [Video](https://www.youtube.com/watch?v=H9bfqozjoqs) |
@@ -317,7 +317,7 @@ recursion & optimization. these patterns are harder but show up frequently in in
 - grid traversal problems (unique paths) = 2D DP
 - draw out the DP table to visualize transitions
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Unique Paths | [Video](https://www.youtube.com/watch?v=IlEsdxuD4lY) |
 | 2 | Longest Common Subsequence | [Video](https://www.youtube.com/watch?v=Ua0GhsJSlWM) |
@@ -339,7 +339,7 @@ optimization & logic. these are the patterns that separate good from great in in
 - compare current interval's start with previous interval's end
 - merge, insert, or count based on overlap
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Meeting Rooms | [Video](https://www.youtube.com/watch?v=PaJxqZVPhbg) |
 | 2 | Insert Interval | [Video](https://www.youtube.com/watch?v=A8NUOmlwOlM) |
@@ -357,7 +357,7 @@ optimization & logic. these are the patterns that separate good from great in in
 - if not, greedy works
 - often paired with sorting
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Maximum Subarray | [Video](https://www.youtube.com/watch?v=86CQq3pKSUw) |
 | 2 | Valid Parenthesis String | [Video](https://www.youtube.com/watch?v=QhPdNS143Qg) |
@@ -374,7 +374,7 @@ optimization & logic. these are the patterns that separate good from great in in
 - "shortest path with weights" = Dijkstra (use a min heap)
 - "connect all nodes with minimum cost" = MST (Prim's or Kruskal's)
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Network Delay Time | [Video](https://www.youtube.com/watch?v=EaphyqKU4PQ) |
 | 2 | Min Cost to Connect All Points | [Video](https://www.youtube.com/watch?v=f7JOBJIC-NA) |
@@ -390,7 +390,7 @@ optimization & logic. these are the patterns that separate good from great in in
 - count bits with `n & (n - 1)` to clear lowest set bit
 - use bit shifts for powers of 2
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Single Number | [Video](https://www.youtube.com/watch?v=qMPX1AOa83k) |
 | 2 | Number of 1 Bits | [Video](https://www.youtube.com/watch?v=5Km3utixwZs) |
@@ -409,7 +409,7 @@ optimization & logic. these are the patterns that separate good from great in in
 - spiral traversal: track boundaries (top, bottom, left, right)
 - for number problems, think about mathematical properties first
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Rotate Image | [Video](https://www.youtube.com/watch?v=fMSJSS7eO1w) |
 | 2 | Set Matrix Zeroes | [Video](https://www.youtube.com/watch?v=T41rL0L3Pnw) |
@@ -443,7 +443,7 @@ optimization & logic. these are the patterns that separate good from great in in
 
 ### time complexity cheat sheet
 
-| Complexity | Name | Example |
+| complexity | name | example |
 |-----------|------|---------|
 | O(1) | Constant | Hash map lookup |
 | O(log n) | Logarithmic | Binary search |

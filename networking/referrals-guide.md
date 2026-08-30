@@ -14,7 +14,7 @@ category: networking
 
 ## referral success rates (if you stick to the system)
 
-| Action                 | Success Rate |
+| action                 | success rate |
 |------------------------|--------------|
 | Connection Request     | 15-20%       |
 | Getting on a Call      | 20-30%       |
@@ -136,7 +136,7 @@ sometimes they'll prefer answering over LinkedIn chat instead of hopping on a ca
 
 do not blindly hit "Apply" without a referral plan.
 
-| Company Prestige | Wait Time Before Applying Without Referral |
+| company prestige | wait time before applying without referral |
 |------------------|--------------------------------------------|
 | FAANG            | 24-48 hours                                |
 | Mid-Tier         | 2-4 days                                   |

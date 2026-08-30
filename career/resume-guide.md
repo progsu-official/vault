@@ -164,7 +164,7 @@ even without big names or even "legit" experience on your resume, you can still 
 
 #### title upgrades
 
-| Original Title        | Better Version              |
+| original title        | better version              |
 |-----------------------|-----------------------------|
 | "Intern"              | Software Engineering Intern |
 | "Volunteer Web Dev"   | Web Developer               |

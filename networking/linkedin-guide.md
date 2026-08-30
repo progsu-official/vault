@@ -236,7 +236,7 @@ always personalize your connection requests:
 
 ## 11. optimization checklist
 
-| Area          | Goal                                  | Complete? |
+| area          | goal                                  | complete? |
 | ------------- | ------------------------------------- | --------- |
 | Profile Photo | Clear, friendly, and professional     | [ ]        |
 | Banner        | Clean, contrasting tech-related image | [ ]        |
