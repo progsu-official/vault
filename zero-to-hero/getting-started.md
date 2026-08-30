@@ -5,7 +5,7 @@ author:
   handle: "@progsu"
 readTime: "6 min read"
 publishDate: 2026-08-02T12:00:00.000Z
-updated: 2026-08-22T00:00:00.000Z
+updated: 2026-08-29T00:00:00.000Z
 tags: [roadmap, mindset, career, getting-started]
 category: zero-to-hero
 ---
@@ -13,6 +13,28 @@ category: zero-to-hero
 # start here
 
 This is the roadmap for going from "I have no idea what I'm doing" to a real offer in hand. Read this one first, then the other guides in this section go deeper on the individual pieces.
+
+## how to use this section
+
+Every page in zero-to-hero, and the order to read them in. Each box is a link, so you can jump in from wherever you actually are.
+
+```mermaid
+flowchart LR
+    S(["you are here — start here"]) --> Q1{"know your<br/>endgame?"}
+    Q1 -->|not yet| E["picking your endgame"]
+    Q1 -->|yes| Y["roadmap by year<br/>find your stage"]
+    E --> Y
+    Y --> R{"anything real<br/>on your resume?"}
+    R -->|not yet| B["building experience early"]
+    R -->|yes| L["landing your first internship"]
+    B --> L
+    L --> O(["first internship → bigger one → your endgame"])
+
+    click E href "/guides/zero-to-hero/picking-your-endgame"
+    click Y href "/guides/zero-to-hero/roadmap-by-year"
+    click B href "/guides/zero-to-hero/building-experience-early"
+    click L href "/guides/zero-to-hero/landing-your-first-internship"
+```
 
 ## reverse engineer your roadmap
 
