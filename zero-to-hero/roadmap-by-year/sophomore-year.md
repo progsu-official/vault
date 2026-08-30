@@ -12,17 +12,17 @@ category: zero-to-hero
 
 # sophomore year
 
-This is usually the year the search actually starts for real.
+this is usually the year the search actually starts for real.
 
 ## focus
 
-If you don't already have an internship, this is the year to really go after your first one. Most of the freshman/sophomore-specific programs closed between 2025 and 2026. The two still running are worth an application, and undergrad research now covers more of the gap they left behind. See [[building-experience-early]].
+if you don't already have an internship, this is the year to really go after your first one. most of the freshman/sophomore-specific programs closed between 2025 and 2026. the two still running are worth an application, and undergrad research now covers more of the gap they left behind. see [[building-experience-early]].
 
-If you already landed something freshman year, the goal shifts. Keep stacking experiences, but pick them based on where you're actually headed. A second generic internship isn't always the strongest move, and what counts as impressive depends on your target. So for example, if you're aiming at something like AI/ML or quant, a complex, high-impact research project (with a professor, a lab, or on your own) can carry more weight than another standard internship, since those fields often care more about depth of work than a title. If you're aiming at general SWE roles, another internship or a bigger open-source contribution is usually the stronger move. There's no single right answer here, it comes down to your own endgame, so see [[picking-your-endgame]] if you haven't nailed that down yet.
+if you already landed something freshman year, the goal shifts. keep stacking experiences, but pick them based on where you're actually headed. a second generic internship isn't always the strongest move, and what counts as impressive depends on your target. so for example, if you're aiming at something like AI/ML or quant, a complex, high-impact research project (with a professor, a lab, or on your own) can carry more weight than another standard internship, since those fields often care more about depth of work than a title. if you're aiming at general SWE roles, another internship or a bigger open-source contribution is usually the stronger move. there's no single right answer here, it comes down to your own endgame, so see [[picking-your-endgame]] if you haven't nailed that down yet.
 
 ## classes to prioritize
 
-The ones that do the most work for you this year, mostly because they're what interview prep leans on later:
+the ones that do the most work for you this year, mostly because they're what interview prep leans on later:
 
 - **discrete math** (GSU: CSC 2510), the foundation for algorithms, proofs, and technical interview reasoning later
 - **data structures** (GSU: CSC 2720), one of the most directly useful classes you'll take for interview prep
@@ -30,7 +30,7 @@ The ones that do the most work for you this year, mostly because they're what in
 
 ## how to step it up
 
-Take on a project with actual scope, so something well past a tutorial clone. Start applying broadly, including to less "prestigious" titles, just to get real interview reps. If you're already past your first internship, start being deliberate. Pick the next thing (a project, a research position, a second internship) specifically because it moves you toward your actual target.
+take on a project with actual scope, so something well past a tutorial clone. start applying broadly, including to less "prestigious" titles, just to get real interview reps. if you're already past your first internship, start being deliberate. pick the next thing (a project, a research position, a second internship) specifically because it moves you toward your actual target.
 
 ## where to go next
 

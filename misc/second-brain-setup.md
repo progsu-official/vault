@@ -14,11 +14,11 @@ category: misc
 
 # building a second brain with obsidian and claude code
 
-Most "second brain" setups are a pretty notion template with color-coded tags. This is a different approach: an Obsidian vault wired into Claude Code so it doesn't just store notes, it reads them, remembers you, and works inside them.
+most "second brain" setups are a pretty notion template with color-coded tags. this is a different approach: an Obsidian vault wired into Claude Code so it doesn't just store notes, it reads them, remembers you, and works inside them.
 
 ## why bother
 
-A second brain that only stores things is a filing cabinet with better branding. The point isn't having more notes, it's not having to re-explain your situation to an AI every single session. A standing context file, a real folder structure, and an agent that actually reads both before it talks to you turns your notes into something that compounds instead of just piling up.
+a second brain that only stores things is a filing cabinet with better branding. the point isn't having more notes, it's not having to re-explain your situation to an AI every single session. a standing context file, a real folder structure, and an agent that actually reads both before it talks to you turns your notes into something that compounds instead of just piling up.
 
 ## why it matters as a student
 
@@ -34,5 +34,5 @@ A semester means juggling classes, projects, club work, and internship applicati
 
 ## how to actually set it up
 
-Start by having the agent interview you about your goals and current situation, then let it propose a folder structure based on that, rather than starting from a generic template. The system centers on one context file that defines who you are, and everything else (skills, agents, automated filing) builds on top of it.
+start by having the agent interview you about your goals and current situation, then let it propose a folder structure based on that, rather than starting from a generic template. the system centers on one context file that defines who you are, and everything else (skills, agents, automated filing) builds on top of it.
 
