@@ -238,17 +238,17 @@ always personalize your connection requests:
 
 | area          | goal                                  | complete? |
 | ------------- | ------------------------------------- | --------- |
-| Profile Photo | Clear, friendly, and professional     | [ ]        |
-| Banner        | Clean, contrasting tech-related image | [ ]        |
-| Headline      | Confident and keyword-rich            | [ ]        |
-| About Section | 3-5 paragraph personal story         | [ ]        |
-| Featured      | Projects, resume, or portfolio linked | [ ]        |
-| Experience    | Detailed, impact-focused narratives   | [ ]        |
-| Projects      | Include GitHub or demo links          | [ ]        |
-| Skills        | 10+ listed with endorsements          | [ ]        |
-| Education     | Coursework & certifications listed    | [ ]        |
-| Connections   | 500+ high-quality connections         | [ ]        |
-| Activity      | Engage and post regularly             | [ ]        |
+| profile photo | clear, friendly, and professional     | [ ]        |
+| banner        | clean, contrasting tech-related image | [ ]        |
+| headline      | confident and keyword-rich            | [ ]        |
+| about section | 3-5 paragraph personal story         | [ ]        |
+| featured      | projects, resume, or portfolio linked | [ ]        |
+| experience    | detailed, impact-focused narratives   | [ ]        |
+| projects      | include GitHub or demo links          | [ ]        |
+| skills        | 10+ listed with endorsements          | [ ]        |
+| education     | coursework & certifications listed    | [ ]        |
+| connections   | 500+ high-quality connections         | [ ]        |
+| activity      | engage and post regularly             | [ ]        |
 
 ---
 

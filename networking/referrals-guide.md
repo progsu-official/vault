@@ -16,9 +16,9 @@ category: networking
 
 | action                 | success rate |
 |------------------------|--------------|
-| Connection Request     | 15-20%       |
-| Getting on a Call      | 20-30%       |
-| Asking for Referral    | 80-90%       |
+| connection request     | 15-20%       |
+| getting on a call      | 20-30%       |
+| asking for referral    | 80-90%       |
 
 this is why it works. most people never even ask.
 
@@ -139,8 +139,8 @@ do not blindly hit "Apply" without a referral plan.
 | company prestige | wait time before applying without referral |
 |------------------|--------------------------------------------|
 | FAANG            | 24-48 hours                                |
-| Mid-Tier         | 2-4 days                                   |
-| Smaller Startups | 5-7 days                                   |
+| mid-tier         | 2-4 days                                   |
+| smaller startups | 5-7 days                                   |
 
 still apply if you've waited too long, but try to get that referral first.
 
