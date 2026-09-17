@@ -15,14 +15,14 @@ category: technical
 
 ## why DSA matters
 
-Every major tech company tests data structures and algorithms in their interviews. Whether it's FAANG, startups, or mid-size companies, you **will** be asked to solve coding problems on a whiteboard or in a shared editor.
+every major tech company tests data structures and algorithms in their interviews. whether it's FAANG, startups, or mid-size companies, you **will** be asked to solve coding problems on a whiteboard or in a shared editor.
 
-- The good news: there are only ~15 core patterns that cover 90%+ of interview questions
-- The bad news: you can't cram this in a weekend; it takes consistent practice
-- The strategy below gives you a structured path from zero to interview-ready
+- the good news: there are only ~15 core patterns that cover 90%+ of interview questions
+- the bad news: you can't cram this in a weekend; it takes consistent practice
+- the strategy below gives you a structured path from zero to interview-ready
 
 > [!tip]
-> **Quick Tip:** Don't grind 500 random problems. Focus on **patterns** first, then apply them across problems. Quality over quantity.
+> **quick tip:** Don't grind 500 random problems. focus on **patterns** first, then apply them across problems. quality over quantity.
 
 ---
 
@@ -30,42 +30,42 @@ Every major tech company tests data structures and algorithms in their interview
 
 ## step 1: learn the pattern, not just the problem
 
-Every problem below belongs to a **pattern category**. Before solving problems, understand the pattern:
+every problem below belongs to a **pattern category**. before solving problems, understand the pattern:
 
-1. **Watch the video solution** first to understand the approach
-2. **Code it yourself** without looking; struggle is where learning happens
-3. **If stuck for 20+ minutes**, re-watch the video and try again
-4. **Review your solution**: can you explain it out loud?
+1. **watch the video solution** first to understand the approach
+2. **code it yourself** without looking; struggle is where learning happens
+3. **if stuck for 20+ minutes**, re-watch the video and try again
+4. **review your solution**: can you explain it out loud?
 
 ## step 2: follow the roadmap in order
 
-The problems below are organized from **Foundation to Expert**. Each level builds on the previous one. Don't skip ahead; the patterns compound.
+the problems below are organized from **Foundation to Expert**. each level builds on the previous one. don't skip ahead; the patterns compound.
 
 ## step 3: track your progress
 
-Track which problems you've completed and compete with others using the practice link above.
+track which problems you've completed and compete with others using the practice link above.
 
 > [!warning]
-> **Important:** Aim for **2-3 problems per day** consistently rather than 20 problems in one day. Spaced repetition is how you retain patterns.
+> **important:** Aim for **2-3 problems per day** consistently rather than 20 problems in one day. spaced repetition is how you retain patterns.
 
 ---
 
 # foundation level
 
-These are your building blocks. Master these before moving on; nearly every harder problem uses these patterns.
+these are your building blocks. master these before moving on; nearly every harder problem uses these patterns.
 
 ## arrays + hashing
 
-> Foundation for most problems: efficient lookups and storage.
+> foundation for most problems: efficient lookups and storage.
 
-**Core idea:** Use hash maps for O(1) lookups instead of brute-force nested loops. If you're writing two nested for-loops, there's almost always a hash map solution.
+**core idea:** Use hash maps for O(1) lookups instead of brute-force nested loops. if you're writing two nested for-loops, there's almost always a hash map solution.
 
-**Strategy:**
-- Always ask: "Can I trade space for time with a hash map?"
-- For frequency problems, use a counter/dictionary
-- For "find pair" problems, store complements in a set
+**strategy:**
+- always ask: "Can I trade space for time with a hash map?"
+- for frequency problems, use a counter/dictionary
+- for "find pair" problems, store complements in a set
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Two Sum | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA) |
 | 2 | Contains Duplicate | [Video](https://www.youtube.com/watch?v=3OamzN90kPg) |
@@ -80,16 +80,16 @@ These are your building blocks. Master these before moving on; nearly every hard
 
 ## two pointers
 
-> Builds on arrays to solve search and pairing problems.
+> builds on arrays to solve search and pairing problems.
 
-**Core idea:** Use two pointers moving toward each other (or in the same direction) to reduce O(n^2) to O(n). Works best on **sorted arrays**.
+**core idea:** Use two pointers moving toward each other (or in the same direction) to reduce O(n^2) to O(n). works best on **sorted arrays**.
 
-**Strategy:**
-- Sort the array first if not already sorted
-- Left pointer starts at beginning, right at end
-- Move the pointer that gets you closer to your target
+**strategy:**
+- sort the array first if not already sorted
+- left pointer starts at beginning, right at end
+- move the pointer that gets you closer to your target
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Valid Palindrome | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg) |
 | 2 | Two Sum II - Input Array Is Sorted | [Video](https://www.youtube.com/watch?v=cQ1Oz4ckceM) |
@@ -103,16 +103,16 @@ These are your building blocks. Master these before moving on; nearly every hard
 
 ## stack
 
-> Adds memory of previous elements: great for parsing and monotonic problems.
+> adds memory of previous elements: great for parsing and monotonic problems.
 
-**Core idea:** Use a stack when you need to remember previous elements and process them in reverse order (LIFO). If you see nested structures or "next greater/smaller" patterns, think stack.
+**core idea:** Use a stack when you need to remember previous elements and process them in reverse order (LIFO). if you see nested structures or "next greater/smaller" patterns, think stack.
 
-**Strategy:**
-- Matching brackets/parentheses = stack
-- "Next greater element" = monotonic stack
-- Evaluate expressions = stack with operators
+**strategy:**
+- matching brackets/parentheses = stack
+- "next greater element" = monotonic stack
+- evaluate expressions = stack with operators
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Valid Parentheses | [Video](https://www.youtube.com/watch?v=WTzjTskDFMg) |
 | 2 | Min Stack | [Video](https://www.youtube.com/watch?v=qkLl7nAwDPo) |
@@ -125,16 +125,16 @@ These are your building blocks. Master these before moving on; nearly every hard
 
 ## binary search
 
-> Builds on arrays for sorted search optimization.
+> builds on arrays for sorted search optimization.
 
-**Core idea:** If the input is sorted (or has a monotonic property), you can eliminate half the search space each step. O(log n) instead of O(n).
+**core idea:** If the input is sorted (or has a monotonic property), you can eliminate half the search space each step. O(log n) instead of O(n).
 
-**Strategy:**
-- Classic binary search: find target in sorted array
-- "Minimum/maximum that satisfies condition" = binary search on answer
-- Always check: can I binary search the search space?
+**strategy:**
+- classic binary search: find target in sorted array
+- "minimum/maximum that satisfies condition" = binary search on answer
+- always check: can I binary search the search space?
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Search a 2D Matrix | [Video](https://www.youtube.com/watch?v=Ber2pi2C0j0) |
 | 2 | Search in Rotated Sorted Array | [Video](https://www.youtube.com/watch?v=U8XENwh8Oy8) |
@@ -146,16 +146,16 @@ These are your building blocks. Master these before moving on; nearly every hard
 
 ## sliding window
 
-> Extends array logic for subarray optimization.
+> extends array logic for subarray optimization.
 
-**Core idea:** Maintain a "window" over a contiguous subarray/substring. Expand the right side, shrink the left side when constraints are violated. Turns O(n^2) substring problems into O(n).
+**core idea:** Maintain a "window" over a contiguous subarray/substring. expand the right side, shrink the left side when constraints are violated. turns O(n^2) substring problems into O(n).
 
-**Strategy:**
-- "Longest/shortest substring with condition" = sliding window
-- Use a hash map to track window contents
-- Expand right pointer, shrink left when window is invalid
+**strategy:**
+- "longest/shortest substring with condition" = sliding window
+- use a hash map to track window contents
+- expand right pointer, shrink left when window is invalid
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Longest Substring Without Repeating Characters | [Video](https://www.youtube.com/watch?v=wiGpQwVHdE0) |
 | 2 | Minimum Window Substring | [Video](https://www.youtube.com/watch?v=jSto0O4AJbM) |
@@ -167,18 +167,18 @@ These are your building blocks. Master these before moving on; nearly every hard
 
 # intermediate level
 
-Linked & hierarchical structures. These build on your foundation patterns and introduce pointer manipulation and recursion.
+linked & hierarchical structures. these build on your foundation patterns and introduce pointer manipulation and recursion.
 
 ## linked list
 
-**Core idea:** Pointer manipulation. Most linked list problems are about rewiring `.next` pointers. Draw it out on paper first.
+**core idea:** Pointer manipulation. most linked list problems are about rewiring `.next` pointers. draw it out on paper first.
 
-**Strategy:**
-- Use a **dummy node** to simplify edge cases (empty list, single node)
-- **Fast and slow pointers** detect cycles and find midpoints
-- Reverse a linked list is a building block for many harder problems
+**strategy:**
+- use a **dummy node** to simplify edge cases (empty list, single node)
+- **fast and slow pointers** detect cycles and find midpoints
+- reverse a linked list is a building block for many harder problems
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Reverse Linked List | [Video](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
 | 2 | Linked List Cycle | [Video](https://www.youtube.com/watch?v=gBTe7lFR3vc) |
@@ -190,14 +190,14 @@ Linked & hierarchical structures. These build on your foundation patterns and in
 
 ## trees
 
-**Core idea:** Most tree problems are solved with **DFS** (recursive) or **BFS** (level-order with a queue). The recursive structure of trees maps naturally to recursive solutions.
+**core idea:** Most tree problems are solved with **DFS** (recursive) or **BFS** (level-order with a queue). the recursive structure of trees maps naturally to recursive solutions.
 
-**Strategy:**
-- Ask: "Can I solve this with a recursive DFS?" - usually yes
-- For level-by-level processing, use BFS with a queue
+**strategy:**
+- ask: "Can I solve this with a recursive DFS?" - usually yes
+- for level-by-level processing, use BFS with a queue
 - BST property: left < root < right; use this for validation and search
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Invert Binary Tree | [Video](https://www.youtube.com/watch?v=OnSn2XEQ4MY) |
 | 2 | Same Tree | [Video](https://www.youtube.com/watch?v=vRbbcKXCxOw) |
@@ -211,14 +211,14 @@ Linked & hierarchical structures. These build on your foundation patterns and in
 
 ## tries
 
-**Core idea:** A trie (prefix tree) stores strings character by character. Perfect for prefix matching, autocomplete, and word search problems.
+**core idea:** A trie (prefix tree) stores strings character by character. perfect for prefix matching, autocomplete, and word search problems.
 
-**Strategy:**
-- If the problem involves prefixes or dictionary lookups, think trie
-- Each node has up to 26 children (for lowercase English)
-- Mark end-of-word nodes to distinguish complete words from prefixes
+**strategy:**
+- if the problem involves prefixes or dictionary lookups, think trie
+- each node has up to 26 children (for lowercase English)
+- mark end-of-word nodes to distinguish complete words from prefixes
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Implement Trie (Prefix Tree) | [Video](https://www.youtube.com/watch?v=AXjmTQ8LEoI) |
 | 2 | Design Add and Search Words Data Structure | [Video](https://www.youtube.com/watch?v=BTf05gs_8iU) |
@@ -229,18 +229,18 @@ Linked & hierarchical structures. These build on your foundation patterns and in
 
 # advanced patterns
 
-Recursion & optimization. These patterns are harder but show up frequently in interviews at top companies.
+recursion & optimization. these patterns are harder but show up frequently in interviews at top companies.
 
 ## backtracking
 
-**Core idea:** Build solutions incrementally and abandon ("backtrack") paths that can't lead to a valid solution. It's DFS on a decision tree.
+**core idea:** Build solutions incrementally and abandon ("backtrack") paths that can't lead to a valid solution. it's DFS on a decision tree.
 
-**Strategy:**
-- Draw the decision tree first
-- At each step: make a choice, recurse, undo the choice
-- Prune early: skip branches that violate constraints
+**strategy:**
+- draw the decision tree first
+- at each step: make a choice, recurse, undo the choice
+- prune early: skip branches that violate constraints
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Subsets | [Video](https://www.youtube.com/watch?v=REOH22Xwdkk) |
 | 2 | Combination Sum | [Video](https://www.youtube.com/watch?v=GBKI9VSKdGg) |
@@ -252,14 +252,14 @@ Recursion & optimization. These patterns are harder but show up frequently in in
 
 ## heap / priority queue
 
-**Core idea:** Efficiently track the min/max element. Use a heap when you need repeated access to the smallest or largest item.
+**core idea:** Efficiently track the min/max element. use a heap when you need repeated access to the smallest or largest item.
 
-**Strategy:**
-- "Top K" anything = heap
-- Use a **min heap** of size K to find the Kth largest
-- Use a **max heap** when you need the largest element quickly
+**strategy:**
+- "top K" anything = heap
+- use a **min heap** of size K to find the Kth largest
+- use a **max heap** when you need the largest element quickly
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Kth Largest Element in a Stream | [Video](https://www.youtube.com/watch?v=hOjcdrqMoQ8) |
 | 2 | Last Stone Weight | [Video](https://www.youtube.com/watch?v=iygakK8nK9Y) |
@@ -271,15 +271,15 @@ Recursion & optimization. These patterns are harder but show up frequently in in
 
 ## graphs
 
-**Core idea:** Model problems as nodes and edges. Most graph problems use BFS (shortest path) or DFS (exploration/connected components).
+**core idea:** Model problems as nodes and edges. most graph problems use BFS (shortest path) or DFS (exploration/connected components).
 
-**Strategy:**
-- "Number of islands" type = DFS/BFS flood fill
-- "Shortest path" = BFS (unweighted) or Dijkstra (weighted)
-- "Can I complete all tasks?" = topological sort (cycle detection)
-- Always track visited nodes to avoid infinite loops
+**strategy:**
+- "number of islands" type = DFS/BFS flood fill
+- "shortest path" = BFS (unweighted) or Dijkstra (weighted)
+- "can I complete all tasks?" = topological sort (cycle detection)
+- always track visited nodes to avoid infinite loops
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Number of Islands | [Video](https://www.youtube.com/watch?v=pV2kpPD66nE) |
 | 2 | Course Schedule | [Video](https://www.youtube.com/watch?v=EgI5nU9etnU) |
@@ -291,15 +291,15 @@ Recursion & optimization. These patterns are harder but show up frequently in in
 
 ## dynamic programming (1-D)
 
-**Core idea:** Break a problem into overlapping subproblems. Store results to avoid recomputation. If a recursive solution has repeated calls, DP can optimize it.
+**core idea:** Break a problem into overlapping subproblems. store results to avoid recomputation. if a recursive solution has repeated calls, DP can optimize it.
 
-**Strategy:**
-- Start with a **recursive** brute-force solution
-- Add **memoization** (top-down) or build a **DP table** (bottom-up)
-- Define your state clearly: `dp[i]` = what does index i represent?
-- Find the **recurrence relation**: how does `dp[i]` relate to previous values?
+**strategy:**
+- start with a **recursive** brute-force solution
+- add **memoization** (top-down) or build a **DP table** (bottom-up)
+- define your state clearly: `dp[i]` = what does index i represent?
+- find the **recurrence relation**: how does `dp[i]` relate to previous values?
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Climbing Stairs | [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI) |
 | 2 | Coin Change | [Video](https://www.youtube.com/watch?v=H9bfqozjoqs) |
@@ -310,14 +310,14 @@ Recursion & optimization. These patterns are harder but show up frequently in in
 
 ## dynamic programming (2-D)
 
-**Core idea:** Same as 1-D DP but with two changing variables. `dp[i][j]` usually represents a subproblem on a substring, subarray, or grid.
+**core idea:** Same as 1-D DP but with two changing variables. `dp[i][j]` usually represents a subproblem on a substring, subarray, or grid.
 
-**Strategy:**
-- String comparison problems (edit distance, LCS) = 2D DP
-- Grid traversal problems (unique paths) = 2D DP
-- Draw out the DP table to visualize transitions
+**strategy:**
+- string comparison problems (edit distance, LCS) = 2D DP
+- grid traversal problems (unique paths) = 2D DP
+- draw out the DP table to visualize transitions
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Unique Paths | [Video](https://www.youtube.com/watch?v=IlEsdxuD4lY) |
 | 2 | Longest Common Subsequence | [Video](https://www.youtube.com/watch?v=Ua0GhsJSlWM) |
@@ -328,18 +328,18 @@ Recursion & optimization. These patterns are harder but show up frequently in in
 
 # expert level
 
-Optimization & logic. These are the patterns that separate good from great in interviews.
+optimization & logic. these are the patterns that separate good from great in interviews.
 
 ## intervals
 
-**Core idea:** Sort by start (or end) time, then process intervals linearly. Most interval problems become simple after sorting.
+**core idea:** Sort by start (or end) time, then process intervals linearly. most interval problems become simple after sorting.
 
-**Strategy:**
-- Sort intervals by start time
-- Compare current interval's start with previous interval's end
-- Merge, insert, or count based on overlap
+**strategy:**
+- sort intervals by start time
+- compare current interval's start with previous interval's end
+- merge, insert, or count based on overlap
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Meeting Rooms | [Video](https://www.youtube.com/watch?v=PaJxqZVPhbg) |
 | 2 | Insert Interval | [Video](https://www.youtube.com/watch?v=A8NUOmlwOlM) |
@@ -350,14 +350,14 @@ Optimization & logic. These are the patterns that separate good from great in in
 
 ## greedy
 
-**Core idea:** Make the locally optimal choice at each step. Greedy works when the local optimum leads to the global optimum.
+**core idea:** Make the locally optimal choice at each step. greedy works when the local optimum leads to the global optimum.
 
-**Strategy:**
-- Ask: "Does choosing the best option right now hurt future choices?"
-- If not, greedy works
-- Often paired with sorting
+**strategy:**
+- ask: "Does choosing the best option right now hurt future choices?"
+- if not, greedy works
+- often paired with sorting
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Maximum Subarray | [Video](https://www.youtube.com/watch?v=86CQq3pKSUw) |
 | 2 | Valid Parenthesis String | [Video](https://www.youtube.com/watch?v=QhPdNS143Qg) |
@@ -368,13 +368,13 @@ Optimization & logic. These are the patterns that separate good from great in in
 
 ## advanced graphs
 
-**Core idea:** Weighted graph algorithms. Dijkstra for shortest path, Prim's/Kruskal's for minimum spanning trees.
+**core idea:** Weighted graph algorithms. Dijkstra for shortest path, Prim's/Kruskal's for minimum spanning trees.
 
-**Strategy:**
-- "Shortest path with weights" = Dijkstra (use a min heap)
-- "Connect all nodes with minimum cost" = MST (Prim's or Kruskal's)
+**strategy:**
+- "shortest path with weights" = Dijkstra (use a min heap)
+- "connect all nodes with minimum cost" = MST (Prim's or Kruskal's)
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Network Delay Time | [Video](https://www.youtube.com/watch?v=EaphyqKU4PQ) |
 | 2 | Min Cost to Connect All Points | [Video](https://www.youtube.com/watch?v=f7JOBJIC-NA) |
@@ -383,14 +383,14 @@ Optimization & logic. These are the patterns that separate good from great in in
 
 ## bit manipulation
 
-**Core idea:** Use binary operations (AND, OR, XOR, shifts) for O(1) space tricks. XOR is especially powerful: `a ^ a = 0` and `a ^ 0 = a`.
+**core idea:** Use binary operations (AND, OR, XOR, shifts) for O(1) space tricks. XOR is especially powerful: `a ^ a = 0` and `a ^ 0 = a`.
 
-**Strategy:**
-- "Find the single/missing number" = XOR everything
-- Count bits with `n & (n - 1)` to clear lowest set bit
-- Use bit shifts for powers of 2
+**strategy:**
+- "find the single/missing number" = XOR everything
+- count bits with `n & (n - 1)` to clear lowest set bit
+- use bit shifts for powers of 2
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Single Number | [Video](https://www.youtube.com/watch?v=qMPX1AOa83k) |
 | 2 | Number of 1 Bits | [Video](https://www.youtube.com/watch?v=5Km3utixwZs) |
@@ -402,14 +402,14 @@ Optimization & logic. These are the patterns that separate good from great in in
 
 ## math + geometry
 
-**Core idea:** Matrix manipulation, number theory, and spatial reasoning. These problems test your ability to think mathematically.
+**core idea:** Matrix manipulation, number theory, and spatial reasoning. these problems test your ability to think mathematically.
 
-**Strategy:**
-- Matrix rotation: transpose + reverse rows
-- Spiral traversal: track boundaries (top, bottom, left, right)
-- For number problems, think about mathematical properties first
+**strategy:**
+- matrix rotation: transpose + reverse rows
+- spiral traversal: track boundaries (top, bottom, left, right)
+- for number problems, think about mathematical properties first
 
-| # | Problem | Video Solution |
+| # | problem | video solution |
 |---|---------|----------------|
 | 1 | Rotate Image | [Video](https://www.youtube.com/watch?v=fMSJSS7eO1w) |
 | 2 | Set Matrix Zeroes | [Video](https://www.youtube.com/watch?v=T41rL0L3Pnw) |
@@ -423,27 +423,27 @@ Optimization & logic. These are the patterns that separate good from great in in
 # interview day tips
 
 > [!tip]
-> **Success Strategy:** During the actual interview, follow this framework for every problem:
+> **success strategy:** During the actual interview, follow this framework for every problem:
 
-1. **Clarify** (1-2 min): Repeat the problem, ask about edge cases, confirm input/output
-2. **Plan** (3-5 min): Identify the pattern, explain your approach, discuss time/space complexity
-3. **Code** (15-20 min): Write clean code, talk through your logic as you go
-4. **Test** (3-5 min): Walk through an example, check edge cases, fix bugs
+1. **clarify** (1-2 min): Repeat the problem, ask about edge cases, confirm input/output
+2. **plan** (3-5 min): Identify the pattern, explain your approach, discuss time/space complexity
+3. **code** (15-20 min): Write clean code, talk through your logic as you go
+4. **test** (3-5 min): Walk through an example, check edge cases, fix bugs
 
 > [!warning]
-> **Important:** If you get stuck, **communicate**. Say "I'm thinking about using X pattern because..."; interviewers want to see your thought process, not just the answer.
+> **important:** If you get stuck, **communicate**. say "I'm thinking about using X pattern because..."; interviewers want to see your thought process, not just the answer.
 
 ### common mistakes in interviews
 
-- Jumping straight into code without a plan
-- Going silent when stuck
-- Not testing your solution with examples
-- Ignoring edge cases (empty input, single element, duplicates)
-- Over-engineering when a simple solution works
+- jumping straight into code without a plan
+- going silent when stuck
+- not testing your solution with examples
+- ignoring edge cases (empty input, single element, duplicates)
+- over-engineering when a simple solution works
 
 ### time complexity cheat sheet
 
-| Complexity | Name | Example |
+| complexity | name | example |
 |-----------|------|---------|
 | O(1) | Constant | Hash map lookup |
 | O(log n) | Logarithmic | Binary search |

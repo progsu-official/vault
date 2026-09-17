@@ -223,6 +223,7 @@ Writing for GSU students, many first-gen, many self-taught, many anxious about b
 
 - plain sentences, no jargon
 - lowercase headlines
+- lowercase sentence starts in paragraphs and lists too, but keep proper nouns, brand names, and acronyms capitalized (Google, LinkedIn, FAANG, SQL)
 - frame everything as "here's how", not "you should already know"
 - empty states and edge cases should encourage, not scold
 - no exclamation points, no marketing voice, no emoji

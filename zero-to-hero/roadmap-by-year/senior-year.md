@@ -12,21 +12,21 @@ category: zero-to-hero
 
 # senior year
 
-Converting into a full-time offer, or one more real shot at it.
+converting into a full-time offer, or one more real shot at it.
 
 ## focus
 
-If you secured a return offer from your junior-year internship, senior year is usually the easy one. You already know where you're going after graduation, so you get to actually enjoy your last year without the weight of new-grad recruiting hanging over it.
+if you secured a return offer from your junior-year internship, senior year is usually the easy one. you already know where you're going after graduation, so you get to actually enjoy your last year without the weight of new-grad recruiting hanging over it.
 
-If you didn't get a return offer, or you want more options than the one company gave you, this is your last full recruiting cycle before graduation, so treat it seriously. Stack multiple applications, lean on referrals over cold applying, and don't be afraid to use an off-cycle (spring) role to buy yourself another cycle of reps if this one doesn't land the way you want.
+if you didn't get a return offer, or you want more options than the one company gave you, this is your last full recruiting cycle before graduation, so treat it seriously. stack multiple applications, lean on referrals over cold applying, and don't be afraid to use an off-cycle (spring) role to buy yourself another cycle of reps if this one doesn't land the way you want.
 
-Most people go full-time straight after senior year, and that's the default path for good reason. The exception is when your actual endgame needs something a bachelor's alone doesn't give you. Some AI/ML research roles, quant, or maximizing comp as a dev longer-term sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first full-time offer that shows up. That's a case-by-case call against your own endgame, so see [[picking-your-endgame]] if you haven't mapped that out yet. If your goal doesn't need it, don't manufacture a reason to delay working, since the reps you get on the job are usually worth more than more classroom time.
+most people go full-time straight after senior year, and that's the default path for good reason. the exception is when your actual endgame needs something a bachelor's alone doesn't give you. some AI/ML research roles, quant, or maximizing comp as a dev longer-term sometimes call for more school, a specialized program, or holding out for the right opportunity instead of taking the first full-time offer that shows up. that's a case-by-case call against your own endgame, so see [[picking-your-endgame]] if you haven't mapped that out yet. if your goal doesn't need it, don't manufacture a reason to delay working, since the reps you get on the job are usually worth more than more classroom time.
 
-Either way, the offer you take isn't the finish line. Your first job is rarely your last, and what matters from here is whether you're on a track that keeps increasing your options over time (comp, title, company brand).
+either way, the offer you take isn't the finish line. your first job is rarely your last, and what matters from here is whether you're on a track that keeps increasing your options over time (comp, title, company brand).
 
 ## classes to prioritize
 
-Mostly the ones that either close a gap on your resume or double as interview prep:
+mostly the ones that either close a gap on your resume or double as interview prep:
 
 - **operating systems** (GSU: CSC 4320) or **programming languages** (GSU: CSC 4330), whichever your program has you take
 - **capstone I and II** (GSU: CSC 4351, CSC 4352), the closest thing to real team engineering work you'll do before a job
@@ -35,7 +35,7 @@ Mostly the ones that either close a gap on your resume or double as interview pr
 
 ## how to step it up
 
-Volume + warmth, in that order. Get multiple applications out rather than perfecting one, and route as many of them as you can through a referral instead of the portal. Then keep the off-cycle (spring) option genuinely on the table, since one more cycle of reps beats forcing a bad fit in the fall.
+volume + warmth, in that order. get multiple applications out rather than perfecting one, and route as many of them as you can through a referral instead of the portal. then keep the off-cycle (spring) option genuinely on the table, since one more cycle of reps beats forcing a bad fit in the fall.
 
 ## where to go next
 
