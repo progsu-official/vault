@@ -34,7 +34,7 @@ you might hear that referrals don't really matter. this may be partially true fo
 but when someone inside a company vouches for you through the various methods we'll talk about (submitting your resume, sending your info, or just dropping your name), it's not just a polite gesture. it's **a multiplier**.
 
 > [!note]
-> **stat Check:** Referred candidates are **4x more likely** to get hired compared to cold applicants.
+> **stat check:** Referred candidates are **4x more likely** to get hired compared to cold applicants.
 
 a referral turns your cold application into a warm one. hiring managers respond better to warm applications.
 
@@ -85,7 +85,7 @@ once they accept, ask for a 15-20 min chat. this is not just to "pick their brai
 pro-tip: Set up a Calendly. you can link your calendar and make it as easy as possible for them to schedule something with you.
 
 > [!tip]
-> **psychology Hack:** People are more likely to help once they've spent time talking with you.
+> **psychology hack:** People are more likely to help once they've spent time talking with you.
 
 next, pop the big question:
 - "it's so crazy out there now. would you be okay with referring me to position/listing? I just want to make sure my application at least gets seen"

@@ -24,7 +24,7 @@ this guide walks through each part of your profile, what recruiters actually loo
 
 first impressions matter and your profile picture and banner play a large part in this.
 
-**bad Example:**
+**bad example:**
 
 ![Old Headshot](https://progsu.com/gitpaid/old_headshot.jpg)
 
@@ -40,7 +40,7 @@ you don't need to rent a studio. a friend with a decent phone camera and portrai
 **banner tip:**
 pick something that fits your vibe. it could be a tech-themed background, your city skyline, or something minimalist from [Canva](https://www.canva.com/create/linkedin-banners/).
 
-**better Example:**
+**better example:**
 
 ![New Headshot](https://progsu.com/gitpaid/new_headshot.jpg)
 
@@ -126,7 +126,7 @@ your experience shows your growth and technical journey, even if you're early in
 highlight the technical side of your journey.
 include academic, hackathon, or personal projects where each one tells a story about your skills.
 
-**format Example:**
+**format example:**
 
 > **OGRE - Graduate Record Examination (GRE) Study App**
 > a mobile app that allows undergraduate students to study for the 3 core areas of the GRE.
@@ -204,7 +204,7 @@ spend 10-15 minutes a day engaging:
 - comment, react, and connect genuinely
 - post once a month (hackathon recap, project story, lesson learned)
 
-**content Ideas:**
+**content ideas:**
 
 - what you learned this semester
 - a new project or feature you built

@@ -39,16 +39,16 @@ recruiters skim resumes in 6-12 seconds. **top to bottom. left to right.**
 so we structure by **relevance**, not **chronology**:
 notice how the relevancy for internships is your education that is one of the things recruiters confirm and check first, so we put that at the tippity top.
 after graduating when you have more relevant experience, education goes below it.
-1. **work Experience** --> put *below* Education if you're applying to internships
+1. **work experience** --> put *below* Education if you're applying to internships
 2. **education**
 3. **skills**
 4. **projects**
 5. **coursework**
-6. **leadership / Clubs**
-7. **awards / Certifications**
+6. **leadership / clubs**
+7. **awards / certifications**
 
 > [!tip]
-> **success Strategy:** If you're applying for internships, keep Education at the top. intern recruiters care most about your school, GPA, and that you're a current student. if you've interned at a FAANG company, lead with that.
+> **success strategy:** If you're applying for internships, keep Education at the top. intern recruiters care most about your school, GPA, and that you're a current student. if you've interned at a FAANG company, lead with that.
 
 
 # alright let's start with the basics
@@ -59,7 +59,7 @@ the header should **immediately tell the recruiter who you are and how to reach 
 
 ### what to include (on 1-2 lines max):
 
-- **full Name** (large, bold)
+- **full name** (large, bold)
 - **email**
 - **phone number** (U.S. only)
 - **GitHub**
@@ -84,7 +84,7 @@ your **Education** section should be compact, clean, and front-loaded with the m
 
 - **university name**
 - **city/state** *(optional unless applying local)*
-- **degree + Major** (Minor is optional)
+- **degree + major** (Minor is optional)
 - **expected graduation date** (critical)
 - **GPA** (if 3.5+)
 - **relevant coursework**: Data Structures, Algorithms, Software Engineering, etc.
@@ -134,7 +134,7 @@ made a multiplayer typing game using React and Socket.IO.
 - include **results or metrics** if possible
 
 > [!tip]
-> **quick Tip:** Stuck? brain-dump what you did. then rewrite it with the XYZ structure.
+> **quick tip:** Stuck? brain-dump what you did. then rewrite it with the XYZ structure.
 
 ### bullet point self-check
 
@@ -158,7 +158,7 @@ even without big names or even "legit" experience on your resume, you can still 
 - **position title** (make it sound technical)
 - **company/org name**
 - **location** *(optional; use "Remote" if relevant)*
-- **start + End Dates**
+- **start + end dates**
 - **3-4 bullets** using the XYZ method
 
 

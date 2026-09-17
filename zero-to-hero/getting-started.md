@@ -16,7 +16,7 @@ this is the roadmap for going from "I have no idea what I'm doing" to a real off
 
 ## how to use this section
 
-every page in zero-to-hero, and the order to read them in. the underlined boxes link straight to that guide, so you can jump in from wherever you actually are.
+the main pages in zero-to-hero, and the order to read them in. the underlined boxes link straight to that guide, so you can jump in from wherever you actually are.
 
 ```mermaid
 flowchart LR
@@ -29,7 +29,7 @@ flowchart LR
     B --> L
 
     click E href "/guides/zero-to-hero/picking-your-endgame"
-    click Y href "/guides/zero-to-hero/roadmap-by-year"
+    click Y href "/guides/zero-to-hero/roadmap-by-year/freshman-year"
     click B href "/guides/zero-to-hero/building-experience-early"
     click L href "/guides/zero-to-hero/landing-your-first-internship"
 ```

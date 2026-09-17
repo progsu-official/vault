@@ -22,7 +22,7 @@ every major tech company tests data structures and algorithms in their interview
 - the strategy below gives you a structured path from zero to interview-ready
 
 > [!tip]
-> **quick Tip:** Don't grind 500 random problems. focus on **patterns** first, then apply them across problems. quality over quantity.
+> **quick tip:** Don't grind 500 random problems. focus on **patterns** first, then apply them across problems. quality over quantity.
 
 ---
 
@@ -423,7 +423,7 @@ optimization & logic. these are the patterns that separate good from great in in
 # interview day tips
 
 > [!tip]
-> **success Strategy:** During the actual interview, follow this framework for every problem:
+> **success strategy:** During the actual interview, follow this framework for every problem:
 
 1. **clarify** (1-2 min): Repeat the problem, ask about edge cases, confirm input/output
 2. **plan** (3-5 min): Identify the pattern, explain your approach, discuss time/space complexity
